@@ -1,0 +1,58 @@
+.my-navbar {
+    background-color: #f7f6e7;
+}
+.my-navlink {
+    color: #f2a154;
+}
+.navbar-brand {
+    font-family: "Alfa Slab One", cursive;
+}
+.header {
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    height: 50vh;
+    background-color: black;
+    color: #f7f6e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-txt h1 {
+    padding: 1rem;
+    text-align: center;
+}
+.title {
+    background-color: #f7f6e7;
+    padding: 0.8rem;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(163, 163, 163);
+    z-index: 1;
+}
+.title h2 {
+    letter-spacing: 0.5rem;
+    text-decoration: underline;
+    font-size: 1.8rem;
+}
+.gallery-sect {
+    background-color: #e7e6e1;
+    padding: 2rem 0;
+}
+.my-card {
+    background-color: #f7f6e7;
+    box-shadow: 5px 5px 5px rgb(163, 163, 163);
+    transition: all 0.3s ease-in-out;
+}
+.my-card:hover {
+    transform: translate(-15px, -15px);
+}
+.details {
+    background-color: #e7e6e1;
+}
+.img-details {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0rem;
+}
+/* .row {
+    background-color: black;
+} */
